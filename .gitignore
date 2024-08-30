@@ -1,0 +1,8 @@
+.settings/
+target/
+.metadata/
+.vscode/
+.classpath
+.project
+.idea/
+__pycache__/
